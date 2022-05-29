@@ -1,0 +1,2 @@
+# golangfirst
+go mod init :)
